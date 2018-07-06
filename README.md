@@ -1,5 +1,7 @@
 ## Firefly 萤火虫
 
+[![Join the chat at https://gitter.im/firefly-proxy/Lobby](https://badges.gitter.im/firefly-proxy/Lobby.svg)](https://gitter.im/firefly-proxy/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### 请更新至最新版本 (android 0.0.9, 桌面 0.9.7)
 
 ### 下载 
